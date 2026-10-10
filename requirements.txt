@@ -1,0 +1,6 @@
+streamlit 
+torch 
+transformers==4.53.2 
+huggingface_hub 
+accelerate
+sentencepiece
