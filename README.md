@@ -145,3 +145,6 @@ The Streamlit application also displays prompt token count, output token count, 
 ## 🏁 Conclusion
 
 AI Text Generator demonstrates how a pretrained transformer language model can be fine-tuned for causal language modeling and deployed through an interactive Streamlit interface. The project combines NLP, tokenization, deep learning, and text generation to create a practical application for experimenting with AI-generated text.
+
+![ml](https://github.com/rushikeshwalode06-cod/-AI-Text-Generator-/blob/main/AI_Text_Genrator_image.png?raw=true)
+
