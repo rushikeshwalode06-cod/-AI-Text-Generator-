@@ -46,6 +46,8 @@ AI Text Generator is an NLP-based application that generates meaningful text con
 - 🧩 **Training Sequence Length:** 128 tokens
 - 📝 **Output:** Generated text continuation
 
+![ml](https://github.com/rushikeshwalode06-cod/-AI-Text-Generator-/blob/main/AI_text_Genrator_model_image.png?raw=true)
+
 ## 🔄 Project Workflow
 
 1. 📥 Load the ELI5 Category dataset.
